@@ -16,7 +16,8 @@ SNMP v1 supported
 .1.3.6.1.2.1.43.11.1.1.6.1.3|Fuser unit commercial name
 .1.3.6.1.2.1.43.11.1.1.8.1.3|Fuser unit nominal capacity (percent)
 .1.3.6.1.2.1.43.11.1.1.9.1.3|Fuser unit level (percent left)
-.1.3.6.1.2.1.43.10.2.1.4.1.1 or .1.3.6.1.4.1.1248.1.2.2.27.1.1.3.1.1|Impressions (pages)
+.1.3.6.1.2.1.43.10.2.1.4.1.1 or
+.1.3.6.1.4.1.1248.1.2.2.27.1.1.3.1.1|Impressions (pages)
 .1.3.6.1.2.1.1.3.0|Device uptime
 .1.3.6.1.2.1.2.2.1.2.1|Device firmware version
 .1.3.6.1.2.1.2.2.1.6.1|Device LAN MAC address (xx:xx:xx:xx:xx:xx)
