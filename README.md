@@ -1,6 +1,10 @@
 # SNMP-OIDs
 List of described SNMP OIDs for hardware
 
+Tested OIDs:
+- Epson M2000, M2400, M300, C1100
+- HP M477, M479
+
 
 ### Future
 I will add new descriptions as I get new hardware with SNMP support
