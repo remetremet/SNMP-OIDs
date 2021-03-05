@@ -26,3 +26,4 @@ SNMP v1 supported
 .1.3.6.1.2.1.25.3.2.1.3.1|Device model
 .1.3.6.1.4.1.1248.1.1.3.1.3.8.0|Device model
 .1.3.6.1.2.1.25.2.3.1.5.1|Device memory size (bytes)
+.1.3.6.1.2.1.25.2.3.1.6.1|Device used memory (bytes)
