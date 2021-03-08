@@ -14,4 +14,8 @@ Tested hardware:
 I will add new descriptions as I get new hardware with SNMP support
 
 
+![license-image](https://img.shields.io/github/license/remetremet/SNMP-OIDs?style=plastic)
+![last-commit-image](https://img.shields.io/github/last-commit/remetremet/SNMP-OIDs?style=plastic)
+![repo-size-image](https://img.shields.io/github/repo-size/remetremet/SNMP-OIDs?style=plastic)
+
 Use it if you like it
