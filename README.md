@@ -1,5 +1,5 @@
 # SNMP-OIDs
-List of described SNMP OIDs for hardware
+List of described SNMP OIDs for various hardware. Usefull for getting data from these devices. Use `net-snmp` package to work with SNMP over your network.
 
 Tested hardware:
 - Epson M2000, M2400, M300 => [Printer-Epson-WorkForce-M300.md](OIDs/Printer-Epson-WorkForce-M300.md)
