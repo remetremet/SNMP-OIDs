@@ -9,6 +9,7 @@ Tested hardware:
 - HP M477, M479 => [Printer-HP-ColorLaserJetPro-MFP-M479.md](OIDs/Printer-HP-ColorLaserJetPro-MFP-M479.md)
 - HP P2055 => [Printer-HP-LaserJet-P2055.md](OIDs/Printer-HP-LaserJet-P2055.md)
 - HP Procurve 1810G => [Switch-HP-ProCurve-1810G.md](OIDs/Switch-HP-ProCurve-1810G.md)
+- HP 1920G => [Switch-HP-1920G.md](OIDs/Switch-HP-1920G.md)
 
 
 
