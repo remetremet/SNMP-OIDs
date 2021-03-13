@@ -2,6 +2,7 @@
 List of described SNMP OIDs for various hardware. Usefull for getting data from these devices. Use `net-snmp` package to work with SNMP over your network.
 
 Tested hardware:
+- Cisco SF200, SF300, SG300 => [Switch-Cisco-SF200.md](OIDs/Switch-Cisco-SF200.md)
 - Dlink DGS1100-XX => [Switch-Dlink-DGS1100.md](OIDs/Switch-Dlink-DGS1100.md)
 - Dlink DWR921 => [LTE-router-Dlink-DWR921.md](OIDs/LTE-router-Dlink-DWR921.md)
 - Epson M2000, M2400, M300 => [Printer-Epson-WorkForce-M300.md](OIDs/Printer-Epson-WorkForce-M300.md)
