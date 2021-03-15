@@ -1,7 +1,8 @@
 Epson WorkForce M300
 ===
-(should work with all Epson BW laser printers)
- 
+(should work with all Epson BW laser printers, M2000 supports SNMP v1 only)
+
+
 SNMP v1 supported
 ---
 
